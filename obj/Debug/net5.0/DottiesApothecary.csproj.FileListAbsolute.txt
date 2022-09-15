@@ -42,3 +42,7 @@ C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug
 C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\maste\documents\DottiesApothecarry.Solution\DottiesApothecary\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
